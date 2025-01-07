@@ -1,0 +1,13 @@
+C:\Users\kiril\source\repos\FindCouple\FindCouple\bin\Debug\FindCouple.exe.config
+C:\Users\kiril\source\repos\FindCouple\FindCouple\bin\Debug\FindCouple.exe
+C:\Users\kiril\source\repos\FindCouple\FindCouple\bin\Debug\FindCouple.pdb
+C:\Users\kiril\source\repos\FindCouple\FindCouple\bin\Debug\sfml-audio.dll
+C:\Users\kiril\source\repos\FindCouple\FindCouple\bin\Debug\sfml-graphics.dll
+C:\Users\kiril\source\repos\FindCouple\FindCouple\bin\Debug\sfml-learning.dll
+C:\Users\kiril\source\repos\FindCouple\FindCouple\bin\Debug\sfml-system.dll
+C:\Users\kiril\source\repos\FindCouple\FindCouple\bin\Debug\sfml-window.dll
+C:\Users\kiril\source\repos\FindCouple\FindCouple\obj\Debug\FindCouple.csproj.AssemblyReference.cache
+C:\Users\kiril\source\repos\FindCouple\FindCouple\obj\Debug\FindCouple.csproj.CoreCompileInputs.cache
+C:\Users\kiril\source\repos\FindCouple\FindCouple\obj\Debug\FindCouple.csproj.CopyComplete
+C:\Users\kiril\source\repos\FindCouple\FindCouple\obj\Debug\FindCouple.exe
+C:\Users\kiril\source\repos\FindCouple\FindCouple\obj\Debug\FindCouple.pdb
